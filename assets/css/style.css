@@ -19,7 +19,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/*consolidated second .header h1 .seo*/
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -115,7 +115,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*!!!combine lead brand and cost into one class*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -160,7 +160,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* consolidated images*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -177,16 +177,12 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.online-reputation-management h2 {
+/* consolidated these classes, same margin and font-size*/
+.online-reputation-management .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .footer {
     padding: 30px;
