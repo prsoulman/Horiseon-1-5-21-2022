@@ -1,10 +1,8 @@
 # Horiseon-1-5-21-2022
 
-How do I use markdown language?
+## This is a Website about the Marketing Company Horiseon
 
-User Story "AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines"
+This website for the most part is ready for deployment. I added accessibility features. I added semantic elements. I also changed the semantic elements to a more logical structure. I also added a title 
 
 
 Acceptance Criteria
