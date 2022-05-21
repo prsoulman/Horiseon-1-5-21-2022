@@ -5,9 +5,10 @@
 This website for the most part is ready for deployment. I added accessibility features. I added semantic elements. I also changed the semantic elements to a more logical structure. I also added a title, and consolidated the CSS classes.
 
 **Links:**
+---
 Github: *https://github.com/prsoulman/Horiseon-1-5-21-2022.git*
 
 Git Pages: *https://prsoulman.github.io/Horiseon-1-5-21-2022/*
 
-
+---
 ![Horiseon Screenshot](Screen%20Shot%202022-05-21%20at%2011.51.15%20AM.png)
