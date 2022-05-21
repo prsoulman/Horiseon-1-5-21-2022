@@ -10,16 +10,6 @@ Github:https://github.com/prsoulman/Horiseon-1-5-21-2022.git
 Git Pages:https://prsoulman.github.io/Horiseon-1-5-21-2022/
 
 
-Acceptance Criteria
+![Horiseon Screenshot](./assets/images/Screenshot 2022-05-20 210813.png "Horiseon Screenshot")
 
-X GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-X WHEN I view the image elements
-X THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-X WHEN I view the title element
-X THEN I find a concise, descriptive title
+
