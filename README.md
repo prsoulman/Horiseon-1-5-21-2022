@@ -10,6 +10,6 @@ Github:https://github.com/prsoulman/Horiseon-1-5-21-2022.git
 Git Pages:https://prsoulman.github.io/Horiseon-1-5-21-2022/
 
 
-![Horiseon Screenshot](./assets/images/Screenshot 2022-05-20 210813.png "Horiseon Screenshot")
+![Horiseon Screenshot](Horiseon-1-5-2022/assets/images/Screenshot 2022-05-20 210813.png "Horiseon Screenshot")
 
 
