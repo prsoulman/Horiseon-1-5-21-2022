@@ -14,7 +14,5 @@ Git Pages: *https://prsoulman.github.io/Horiseon-1-5-21-2022/*
 ---
 - *HTML*
 - *CSS*
-
-*
 ---
 ![Horiseon Screenshot](Screen%20Shot%202022-05-21%20at%2011.51.15%20AM.png)
