@@ -10,14 +10,4 @@ Github:https://github.com/prsoulman/Horiseon-1-5-21-2022.git
 Git Pages:https://prsoulman.github.io/Horiseon-1-5-21-2022/
 
 
-![Horiseon Screenshot](Horiseon-1-5-2022/assets/images/Screenshot 2022-05-20 210813.png "Horiseon Screenshot")
-
-
 ![Horiseon Screenshot](Screen%20Shot%202022-05-21%20at%2011.51.15%20AM.png)
-
-![Horiseon Screenshot](Screen%20Shot%202022-05-21%20at%2011.51.15%20AM.png/assets/images/Screenshot%202022-05-20%20210813.png?version%3D1653099291132)
-
-![Horiseon Screenshot](/assets/images/Screenshot%202022-05-20%20210813.png?version%3D1653099291132)
-
-
-![Horiseon Screenshot](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/prsou/Horiseon-1-5-21-2022/assets/images/Screenshot%202022-05-20%20210813.png?version%3D1653099291132)
