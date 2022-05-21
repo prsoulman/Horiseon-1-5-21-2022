@@ -161,19 +161,19 @@ p {
     color: #ffffff;
 }
 /* consolidated images*/
-.search-engine-optimization img {
+img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
+/* .online-reputation-management img {
     max-height: 200px;
-}
+}*/
 
-.social-media-marketing img {
+/* .social-media-marketing img {
     max-height: 200px;
-}
+}*/
 
-.search-engine-optimization h2 {
+/* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
