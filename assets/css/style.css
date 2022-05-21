@@ -82,10 +82,12 @@ p {
     float: right;
     width: 20%;
     height: 100%;
+    margin-bottom: 32px;
+    color: #ffffff;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*Consolidated the benefit classes into ".benefit"*/
+/*Consolidated the benefit classes into ".benefit"
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -100,7 +102,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -160,6 +162,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 /* consolidated images*/
 img {
     max-height: 200px;

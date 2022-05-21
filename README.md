@@ -2,7 +2,12 @@
 
 ## This is a Website about the Marketing Company Horiseon
 
-This website for the most part is ready for deployment. I added accessibility features. I added semantic elements. I also changed the semantic elements to a more logical structure. I also added a title 
+This website for the most part is ready for deployment. I added accessibility features. I added semantic elements. I also changed the semantic elements to a more logical structure. I also added a title, and consolidated the CSS classes.
+
+Links:
+Github:https://github.com/prsoulman/Horiseon-1-5-21-2022.git
+
+Git Pages:https://prsoulman.github.io/Horiseon-1-5-21-2022/
 
 
 Acceptance Criteria
@@ -16,5 +21,5 @@ WHEN I view the image elements
 THEN I find accessible alt attributes
 WHEN I view the heading attributes
 THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+X WHEN I view the title element
+X THEN I find a concise, descriptive title
