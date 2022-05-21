@@ -2,7 +2,7 @@
 
 ## This is a Website about the Marketing Company Horiseon
 
-This website for the most part is ready for deployment. I added accessibility features. I added semantic elements. I also changed the semantic elements to a more logical structure. I also added a title, and consolidated the CSS classes.
+This website for the most part is ready for deployment. I added accessibility features. I added semantic elements. I changed the semantic elements to a more logical structure, and added a title, consolidated the CSS classes.
 
 **Links:**
 ---
